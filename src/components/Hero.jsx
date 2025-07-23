@@ -54,13 +54,15 @@ export const Hero = () => {
 
                     <motion.div className="cta-buttons" variants={staggerContainer}>
                         <motion.a
-                            href="#projects"
+                            href="https://drive.google.com/file/d/1HYDIVII6IYLfyo-RgVVROI84UPxLV3-Z/view?usp=drive_link"
                             className="cta-primary"
+                            target="_blank"
+                            rel="noopener noreferrer"
                             whileHover={{ scale: 1.05 }}
                             whileTap={{ scale: 0.95 }}
                         >
                             {" "}
-                            View My Work
+                            View My Resume
                         </motion.a>
                         <motion.a
                             href="#contacts"
