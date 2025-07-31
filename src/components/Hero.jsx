@@ -54,7 +54,7 @@ export const Hero = () => {
 
                     <motion.div className="cta-buttons" variants={staggerContainer}>
                         <motion.a
-                            href="https://drive.google.com/file/d/1HYDIVII6IYLfyo-RgVVROI84UPxLV3-Z/view?usp=drive_link"
+                            href="https://drive.google.com/file/d/1DW7z-ENaI7hruZ7xBiQwrOCHQy2UrWLM/view?usp=sharing"
                             className="cta-primary"
                             target="_blank"
                             rel="noopener noreferrer"
